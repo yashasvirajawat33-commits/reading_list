@@ -18,4 +18,4 @@ Features
 
 Purpose
 
-The application helps users organize their reading activities in one place.
+The application helps users organize their reading lists.
